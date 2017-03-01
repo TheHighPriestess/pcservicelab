@@ -1,0 +1,68 @@
+body {
+  padding-top: 100px;
+  font-family: "Open Sans", sans-serif;
+  color: #222;
+}
+
+footer {
+  margin: 50px 0;
+}
+
+.list-group-item {
+  border: none;
+}
+
+img.technikos {
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+
+h1,h2,h3,h4 {
+	font-weight: 800;
+}
+
+h1 {
+  font-size: 5.25em;
+  margin-bottom: -25px;
+}
+
+h2 {
+  color: #9e9e9e;
+  font-size: 2.75em;
+}
+
+h2.tagline {
+  color: #454545;
+  font-size: 1.8em;
+  font-weight: 400;
+}
+
+h3 {
+  color: #fc1819;
+  font-size: 2.5em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+li {
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+.email {
+  color: #fc1819;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.well {
+  background-color: #222;
+  color: #fff;
+  margin-top: -20px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #BDBDBD;
+}
