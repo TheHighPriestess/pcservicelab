@@ -1,0 +1,12 @@
+﻿/* ONE WOMAN TEAM */
+
+Web developer and designer: Elizabeth Hatleli
+Site: http://elizabethhatleli.com
+
+
+/* THIS SITE */
+	
+Last update:  March 2, 2017
+Language: Ελληνικά / English 
+Doctype: HTML5
+Tools used: Sublime Text, Fireworks, Bootstrap
